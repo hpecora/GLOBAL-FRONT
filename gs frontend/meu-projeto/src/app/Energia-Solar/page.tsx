@@ -93,7 +93,7 @@ export default function Home()  {
             </div>
           </div>
           <form className={styles.form} onSubmit={handleSubmit}>
-            <h2>Preencha nosso formulário abaixo para marcarmos uma reunião</h2>
+            <h2>Preencha o formulário abaixo para marcarmos uma reunião</h2>
             <label>
               Nome completo:
               <input type="text" name="nome" required />
