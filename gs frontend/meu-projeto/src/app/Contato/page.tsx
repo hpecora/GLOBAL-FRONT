@@ -24,7 +24,7 @@ const page = () => {
           <div className={styles.card}>
             <img src={hIMG.src} alt="Henrique Pecora" className={styles.image} />
             <h2>Henrique Pecora Vieira de Souza</h2>
-            <p>RM 556612</p>
+            <p>RM: 556612</p>
             <p>1TDRS</p>
             <p>
               <strong>Github:</strong>{" "}
@@ -41,7 +41,7 @@ const page = () => {
           <div className={styles.card}>
             <img src={lIMG.src} alt="Livia Lopes" className={styles.image} />
             <h2>Livia de Oliveira Lopes</h2>
-            <p>RM 556281</p>
+            <p>RM: 556281</p>
             <p>1TDRS</p>
             <p>
               <strong>Github:</strong>{" "}
@@ -58,7 +58,7 @@ const page = () => {
           <div className={styles.card}>
             <img src={sIMG.src} alt="Santhiago de Gobbi" className={styles.image} />
             <h2>Santhiago De Gobbi Barros de Souza</h2>
-            <p>RM 98420</p>
+            <p>RM: 98420</p>
             <p>1TDRS</p>
             <p>
               <strong>Github:</strong>{" "}
