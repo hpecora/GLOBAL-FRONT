@@ -62,7 +62,7 @@ const page = () => {
             <p>1TDRS</p>
             <p>
               <strong>Github:</strong>{" "}
-              <a href="https://github.com/santhi" target="_blank">https://github.com/santhi</a>
+              <a href="https://github.com/santhi" target="_blank">https://github.com/santhiiiiiiii</a>
             </p>
             <p>
               <strong>LinkedIn:</strong>{" "}
