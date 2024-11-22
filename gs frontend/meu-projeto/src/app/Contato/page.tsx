@@ -57,7 +57,7 @@ const page = () => {
 
           <div className={styles.card}>
             <img src={sIMG.src} alt="Santhiago de Gobbi" className={styles.image} />
-            <h2>Santhiago de Gobbi Barros de Souza</h2>
+            <h2>Santhiago De Gobbi Barros de Souza</h2>
             <p>RM 98420</p>
             <p>1TDRS</p>
             <p>
